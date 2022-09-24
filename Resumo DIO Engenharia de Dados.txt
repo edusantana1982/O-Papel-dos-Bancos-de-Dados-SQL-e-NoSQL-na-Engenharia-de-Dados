@@ -1,0 +1,78 @@
+O banco de dados é bem plural, muito diversificado o uso
+Exi este espaço para todos o mercado é bem diverso.
+Com varios tipos e opções, temos que ver o conceito de cada um e aplicar a ferramenta certa a nossa necessidade.
+Usar as ferramentas combinadas ao proposito, saber explorar de forma a resolver o problema, tentar encaixar ao contexto, havera curvas de ´prendizado e evoluir a 
+ferramenta sempre.
+
+
+Relacional - é um banco onde vamos guardar informações que tenham relações entre si, com consistencia e esquema de dados rigido exmplo sistema transacional
+e-comerce e antes de modelar vamos saber o esquema bem rigido, traz garantia das relações de dados de forma integra.
+
+Não Relacional - surgiu o conceito NoSql não para substituir mas como alternativa, contar com capacidades adicionais, surgiu por necessidade de escalabilidade 
+e de forma não extruturada, este mantem extrutura nao rigida que ate não conheça, com uma gama de possibilidades bem maior e complementa, permite trabalhar 
+sem esquemas de dados rigido.
+
+A ideia não é substituir os relacionais, mas sim complementar, e resolver problemas que os bancos relacionais não conseguem, com escalabilidade horizontal, 
+e não rigidez de quelquer forma e jeito sem quebra de compatililidade e a consulta fica bem mais simples e armazenar de acordo com a consulta, e de forma simples
+assim veio apenas para ajudar.
+
+Como encontrar algo que não tem garantia de extrutura? para prever isso sempre devemos ter cuidados basicos com a chaves de consulta, pos podemos ter campos nulos, 
+mas tem que ser  pensado basicamente para não pensar de uma unica forma, e pensar nas caracteristicas do banco para que possamos entregar performance, a aplicação
+saber lhe dar com essa imprevisibilidade, mesmo assim será necessário modelar minimamente não se pode inserir os dados de forma indiscriminada.
+
+Conhecer um pouco de cada é sufuciente para começar? conhecer os contextos e saber para o que foram feitos, eles tem familiaridades, entender o conceito de cada um para
+quando precisar de um ficar mais simples a curva de aprendizados, saber os tipos é importante e propositos, essencia e pra que quero usar ai curva de aprendizado,
+mas se direcionou para um banco de dados correto sou problema será sanado de forma mais rapida e simples,  resolver problema sem dominio dificulta mas faz parte do
+desenvolvimento profissional e conforme vai evoluindo seus conhecimentos fica mais simples o aprendizado de novas ferramentas, não exite apenas um caminho das experiencias
+passadas tiramos lições, e mais que escolher o tipo relacional ou não e se for não relacional ainda tem os tipos a escolher, veja o contexo que será aplicado, faz parte
+do dia a dia conhecer novas ferramentas.
+
+Flexibilidade do NoSql frente ao SQL - precisa de um conceito de consistencia atomicidade todas são executadas ou nenhuma, consistencia para outras consultas, isolamento 
+uma informação não vai interferir na outra, durabilidade o que armazenou não vai perder ACID temos essas situações nos nao relacionais que esta evoluindo em detrimento
+a perfomance lhe damos com uma inconsistencia pontual.
+
+Quais são os SGBDS usados no Carrefour? Hibrido, Oracle BI om premisses, big data baseado hdfs hadug, atch base metadados, um pouco de mongo db bem avançadas ferramentas
+em gcp, mais ainda explorando e buscando o melhor de cada um deles.  
+
+Nuvem  - Eles usam GCP, as arquiteturas precisam de evolução e pensar na transição é muito importante, quando iniciamos do zero é menos complexo, os serviços de cloud 
+fornecem um bom serviço de suporte ate pq as transições causam custo de esforço bem consideravel.
+
+Sobre DataLake e Databricks - data lake lugar onde jogamos muitas informações que iremos consumir em algum momento, os lakes ajudam a ter consistencia das informações dentro de 
+um data lake, buscamos soluções pra cuidar destes dados frios, ingestao, armazenamento, processamento, disponibilidade e segurança tem que compreender no data lake
+pensar num lugar com esta quantidade de dados é caotico. tem que ser barato.
+
+Desafios na hora de realizar o ETL - preparação de dados os eschendules são baseados em control n e analisar o resultado para que possa ver se esta ok.
+
+O tipo de banco influencia na complexidade - quando for fazer a escolha do banco tem que entender o que vai colocar nele, definir qual arquitetura vau usar 
+como vai armazenar e não dificultar o processo de carga, assim o tipo do banco é a parte mais crucial, hoje tem ferramentas que facilitam as integrações.
+
+times multidiciplinares para que possamos aportar todo contexto tecnico, times extruturantes para definir as capacidades com modelos descentralizados e proximidade do
+para aplicar melhor a solução.
+
+Engenheiro e Cientista de Dados - São complementares, Engenheiro manipulação ferramentas estruturas o Cientista consome os dados pra aplicar um processamento das informações
+disponibilizadas pelo engenheiro em forma de insites, são diretamente ligados e inseparaveis.
+
+Deficiencia em Pessoas com Skill em Estatistica - importante pessoas com esta skill em ciencia de dados, é importante saber os conceitos matematicos e estatiscos, e enchergar o 
+que se busca.
+
+Dicas para ser engenheiro  - Ecosistema de dados necessário passar nas camadas pra crescimento, ter olhar critico para resolver com a ferramenta correta, conhecimento nas 
+ferramentas ETL, ingestao de dados Powercengtre Iffi, spark, GCP, é ter visao de fluxo de dados e pq esta fazendo.
+
+Conclusão - 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
